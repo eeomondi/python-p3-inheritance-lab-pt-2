@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
-from student import Student, ChattyStudent
-
+from student import Student
+from ChattyStudent import ChattyStudent
+import pytest
 import io
 import sys
 
